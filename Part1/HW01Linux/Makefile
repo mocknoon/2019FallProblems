@@ -1,5 +1,5 @@
 # ***
-# *** Please modify this file and check what would happen
+# *** Please modify this file and check what would happen:/
 # ***
 
 WARNING = -Wall -Wshadow --pedantic
